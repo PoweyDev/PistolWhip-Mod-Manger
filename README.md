@@ -1,16 +1,15 @@
 # PistolWhip-Mod-Manger | Main Branch
 ### This mod allows you to mange/create your own mods using C#.
-PistolWhip is a game where you shoot enemys to the beat of the music.
 
-[Youtube]() | [Discord]() | [Dev Blog]()
+[Youtube](https://www.youtube.com/channel/UCKaI0M6JMECa0LKRf-XGqYw) | [Discord](https://discord.gg/w24bFQcrVk) | [Dev Blog](https://github.com/PoweyDev)
 
 ## People That Worked On The Project
 
-Made by:[PoweyDev](https://github.com/PoweyDev).
+Made by: [PoweyDev](https://github.com/PoweyDev) and [WaterWolf](https://github.com/WaterWolf5918)
 
 
 ## Future Plans
-PLACEHOALDER
+I plan to make a custom song manger and custom song maker.
 
 ## How To Build
 **Coming Soon**
