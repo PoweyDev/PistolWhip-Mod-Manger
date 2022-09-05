@@ -1,4 +1,4 @@
-# PistolWhip-Mod-Manger | Main Branch
+# PistolWhip-Mod-Manager | Main Branch
 ### This mod allows you to mange/create your own mods using C#.
 
 [Youtube](https://www.youtube.com/channel/UCKaI0M6JMECa0LKRf-XGqYw) | [Discord](https://discord.gg/w24bFQcrVk) | [Dev Blog](https://github.com/PoweyDev)
